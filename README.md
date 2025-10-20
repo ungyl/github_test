@@ -1,1 +1,1 @@
-github 真有趣
+github 真有趣！

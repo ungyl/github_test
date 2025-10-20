@@ -1,0 +1,29 @@
+Windows 环境变量配置
+sysdm.cpl
+
+Windows 控制面板访问
+control
+
+打开虚拟键盘
+osk
+
+打开计算器
+calc
+
+远程桌面连接
+ mstsc 
+
+打开记事本
+notepad 
+
+打开画图板
+mspaint
+
+立刻关机（时间t参数为0-300秒）
+shutdown -s -t 0
+
+立刻重启
+shutdown -r -t 0
+
+开启放大镜
+magnify
